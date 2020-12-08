@@ -1,2 +1,2 @@
-# reamp
+# Reamp
 Audio Assault Reamp presets
